@@ -1,0 +1,26 @@
+{
+  "name": "jaikisan",
+  "version": "1.0.0",
+  "description": "'project on jaikisan'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Balaji798/jaikisan.git"
+  },
+  "author": "Balaji-Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Balaji798/jaikisan/issues"
+  },
+  "homepage": "https://github.com/Balaji798/jaikisan#readme",
+  "dependencies": {
+    "email-validator": "^2.0.4",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.3",
+    "nodemon": "^2.0.15",
+    "uuid": "^8.3.2"
+  }
+}
